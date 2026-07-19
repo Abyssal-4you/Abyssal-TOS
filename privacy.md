@@ -50,3 +50,6 @@ Third‑party APIs that collect personal data
 4. Security
 Although Abyssal Bot does not process personal data, we take measures to keep the bot secure.
 No logs containing personal information are stored.
+
+5. Moderation
+Abyssal Bot Moderates with commannds.
