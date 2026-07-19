@@ -1,0 +1,39 @@
+terms.html
+
+1. User Conduct
+Users must behave respectfully toward others.
+
+No spam, flooding, mass‑mentions, or disruptive behavior.
+
+No harassment, threats, bullying, or toxic behavior.
+
+2. Prohibited Content
+No NSFW, gore, violent, hateful, or discriminatory content.
+
+No illegal activities, hacks, exploits, or malware.
+
+No advertising or self‑promotion without permission.
+
+3. Privacy Protection
+Do not share personal information about yourself or others.
+
+Do not post screenshots, chat logs, or private conversations without consent.
+
+4. Bot Usage
+The bot may not be used for spam or actions that violate Discord’s Terms of Service.
+
+Report bugs or issues immediately.
+
+Abusing commands or exploiting features may result in a ban or restriction.
+
+5. Liability
+The owner is not responsible for damage, loss, or misuse caused by users.
+
+The bot is provided “as is”; features may change, break, or go offline at any time.
+
+6. Enforcement
+Staff may warn, mute, kick, or ban users who break the rules.
+
+Decisions made by staff are final.
+
+Attempting to bypass punishments will result in stricter action.
