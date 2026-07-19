@@ -52,4 +52,4 @@ Although Abyssal Bot does not process personal data, we take measures to keep th
 No logs containing personal information are stored.
 
 5. Moderation
-Abyssal Bot Moderates with commannds.
+Abyssal Bot Moderates with commannds Tools.
